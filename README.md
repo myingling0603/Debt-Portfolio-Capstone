@@ -33,7 +33,6 @@ debtors meeting the following criteria:
 
  
 
-The goal of this Capstone is to predict if debtor will repay loan. We have two
-bundles of debt that were purchased in 2008. These bundles is comprised of 86
-debtors with a total debt amount of \$. We also know who in fact accepted the
-deal to repay.
+The goal of this Capstone is to predict if debtor will repay loan. We have one
+bundle of debt that were purchased in 2008. These bundles is comprised of 42
+debtors with a total debt amount of \$186,000.
