@@ -45,4 +45,5 @@ criteria:
 
  
 
-Can we accurately identify if the portfolio is good one to purchase?
+Can we accurately identify if the portfolio is good one to purchase by
+determining the Likelihood of someone repaying their debt?
